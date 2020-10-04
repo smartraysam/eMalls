@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "9184676128",
+    "firebase_url": "https://emalls-62b37.firebaseio.com",
+    "project_id": "emalls-62b37",
+    "storage_bucket": "emalls-62b37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9184676128:android:3847675df5a4890a392f45",
+        "android_client_info": {
+          "package_name": "com.smarttechx.emalls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9184676128-vumr6br4rhtqdl17oqsvrap3odtr5vbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlb1Q5gPpesBX11xsTaywycQxPlGNTF6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9184676128-vumr6br4rhtqdl17oqsvrap3odtr5vbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
